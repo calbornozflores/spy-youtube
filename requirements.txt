@@ -1,5 +1,9 @@
-google-api-python-client
-progressbar
-yfinance
-plotly
+ast
 isodate
+google-api-python-client
+nltk
+plotly
+progressbar
+re
+yfinance
+wordcloud
