@@ -1,0 +1,5 @@
+google-api-python-client
+progressbar
+yfinance
+plotly
+isodate
